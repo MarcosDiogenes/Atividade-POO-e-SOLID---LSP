@@ -8,13 +8,13 @@ import br.uern.di.pa.abb.diogenes.marcos.Currupio;
 public class Main {
     public static void main(String[] args) {
 
-        Papagaio papagaio = new Papagaio(200);
+        Passaro papagaio = new Papagaio(200);
 
         System.out.println(papagaio.voar(300));
 
         papagaio.cantar();
 
-        Currupio currupio = new Currupio(300);
+        Passaro currupio = new Currupio(300);
 
         System.out.println(currupio.voar(400));
 
