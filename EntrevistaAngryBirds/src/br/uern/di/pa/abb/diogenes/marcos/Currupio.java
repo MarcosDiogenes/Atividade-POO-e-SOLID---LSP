@@ -1,5 +1,7 @@
 package br.uern.di.pa.abb.diogenes.marcos;
 
+import br.uern.di.pa.abb.diogenes.marcos.Passaro;
+
 public class Currupio extends Passaro {
 
     @Override
