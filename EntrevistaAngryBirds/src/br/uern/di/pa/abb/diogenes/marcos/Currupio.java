@@ -21,4 +21,5 @@ public class Currupio extends Passaro {
     public Currupio(int distancia_voo) {
         super(distancia_voo);
     }
+
 }
